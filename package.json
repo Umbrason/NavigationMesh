@@ -1,0 +1,12 @@
+{
+  "name": "com.umbrason.navigationmesh",
+  "version": "1.0.0",
+  "displayName": "NavigationMesh",
+  "description": "",
+  "keywords": [    
+  ],
+  "author": {
+    "name": "Umbrason"
+  },
+  "hideInEditor": false
+}
