@@ -5,3 +5,5 @@ The motivation behind this was to allow for instant navmesh updates within the s
 ``Scripts/AStar`` contains a modified AStar algorithm for use on a NavigationMesh.
 ``Scripts/Algorithm`` contains the navmesh generator algorithm. Especially ``Scripts/Algorithm/3_GraphAssembly`` could be of interest for reusing this implementation in other contexts.
 ``Scripts/Interfaces`` contains the implementation specific interfaces for the navmesh generator.
+
+uses some vector swizzling, an implementation of which can be found in https://github.com/Umbrason/UmbrasonsUtils
